@@ -80,7 +80,7 @@ These sources are used for:
 │   └── usage_history.png
 ├── sqls/
 │   ├── cortex_permissions.sql
-│   ├── cortex_rate_limit_tasks.sql
+│   ├── cortex_cli_rate_limit_tasks.sql
 │   └── cortex_snowsight_rate_limit_tasks.sql
 ├── python/
 │   └── cortex_code_credit_manager.py
